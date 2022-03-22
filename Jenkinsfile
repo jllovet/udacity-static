@@ -9,7 +9,6 @@ pipeline {
                         bucket:'afoiiuhawer98h2395r8hwbnsjdfh9w8euihrnoawhethfp9a8ehwrt04r3uh'
                     )
                 }
-
             }
         }
         stage('Lint HTML') {
